@@ -1,0 +1,9 @@
+# arquivos-fonte do cliente (não usados pelo site)
+Pierre logo.ai
+Pierre logo.pdf
+trabalhos/
+
+# sistema / ferramentas
+.DS_Store
+.vercel
+node_modules/
